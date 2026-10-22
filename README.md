@@ -34,8 +34,8 @@ Soy estudiante de 2.º de ASIR, orientado a las redes e interesado en la ciberse
 
 ### Proyectos
 
-- **[OCULAR](https://github.com/Serggg22/ocular):** página web de galería que hice para una estudiante de diseño
-- **[Proyecto web final 1º ASIR](https://github.com/Serggg22/Pr-ctica-LM):** vista previa de un portfolio personal en HTML, CSS y JavaScript
+- **[OCULAR](https://github.com/Serggg22/ocular):** proyecto de concepto: web de galería para una estudiante de diseño
+- **[Proyecto web final 1º ASIR](https://github.com/Serggg22/Pr-ctica-LM):** concepto de portfolio personal en HTML, CSS y JavaScript
 - **Proyectos de redes:** VPN con Cisco ASA y diseño de la red de una empresa, disponibles para descargar en mi [portfolio](https://serggg22.github.io)
 
 ### Formación
